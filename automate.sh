@@ -30,7 +30,7 @@ cp tomcat-users.xml apache-tomcat-9.0.55/conf/tomcat-users.xml
 
 apache-tomcat-9.0.55/bin/startup.sh
 
-git clone https://github.com/sasankkathera/myweb.git
+git clone https://github.com/Bandlasaiharsha/myweb.git
 
 cd myweb
 
